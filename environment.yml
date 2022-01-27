@@ -1,0 +1,6 @@
+name: advent_of_code_2021
+channels:
+  - defaults
+dependencies:
+  - numpy
+prefix: C:\Users\User\anaconda3\envs\advent_of_code_2021
